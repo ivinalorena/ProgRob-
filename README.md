@@ -68,4 +68,6 @@ Estudantes do **ensino médio**, especialmente os que demonstram interesse por *
 * Capacidade de desenvolver pequenos projetos tecnológicos.
 * Estímulo à criatividade, trabalho em equipe e pensamento crítico.
 
-
+---
+## Práticas:
+* Desenvolvidas no TinkerCad, pdf dos esquemas dos circuitos estão na página nomeada "Esquemas - Práticas"
