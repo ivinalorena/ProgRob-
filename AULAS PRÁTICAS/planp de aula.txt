@@ -1,0 +1,11 @@
+Plano de aula:
+1. 
+2.
+
+Passo a passo para a prática do semáforo: 
+
+Conecte o LED verde (veículos) à porta digital 10 do Arduino.
+Conecte o LED amarelo (veículos) à porta digital 9 do Arduino.
+Conecte o LED vermelho (veículos) à porta digital 8 do Arduino.
+Certifique-se de que os componentes estão corretamente aterrados e alimentados, usando um resistor de 330Ω entre o terminal positivo dos LEDs e os pinos digitais do Arduino.
+Vá para a aba de “Código” e selecione “Blocos + Texto” como modo de edição. Você verá uma área de trabalho onde poderá arrastar blocos de código.

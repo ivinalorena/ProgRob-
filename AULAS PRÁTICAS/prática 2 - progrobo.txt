@@ -1,0 +1,28 @@
+TUTORIAL SIMPLES (PRÁTICA 2) PROGROBÔ
+INTRODUÇÃO AO ARDUINO 
+
+COMPONENTES:
+1. arduino
+2. protoboard
+3. led
+4. resistor
+5. fios (jumpers)
+6. cabo usb
+
+CÓDIGO: 
+//ARDUINO TUTORIAL - 1 LED BLINK
+
+int PINONE=13; //declare the pins and variables
+
+void setup() {
+// put your setup code here, to run once:
+pinMode(PINONE, OUTPUT); //Set pin 13 as an output pin
+}
+
+void loop() {
+// put your main code here, to run repeatedly:
+digitalWrite(PINONE, HIGH); //Turn on the pin
+delay(1000); //Pin is on for 1 sec
+digitalWrite(PINONE, LOW); //Turn off the pin
+delay(1000); //Pin is off for 1 sec
+}
